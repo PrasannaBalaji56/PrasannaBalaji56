@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrasannaBalaji56
+- 👋 Hi, I’m @PrasannaBalajiM
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on machine learning enthusiast
